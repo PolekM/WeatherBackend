@@ -1,3 +1,4 @@
+com\weather\configuration\corsConfig.class
 com\weather\Dto\WeatherDaysParametersDto.class
 com\weather\exception\ApiException.class
 com\weather\model\WeatherHolder.class
