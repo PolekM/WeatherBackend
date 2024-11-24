@@ -1,11 +1,10 @@
 
-FROM openjdk:17-jdk-slim
-
-ENV SERVER_PORT=8080
+FROM openjdk:18-jdk-slim
 
 WORKDIR /app
 
-COPY target/weather-0.0.1-SNAPSHOT.jar app.jar
+COPY target/weather-0.0.1-SNAPSHOT.jar weather-backend.jar
 
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "app.jar"]
+
+ENTRYPOINT ["java", "-jar", "weather-backend.jar"]
