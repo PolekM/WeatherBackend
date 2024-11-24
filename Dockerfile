@@ -11,4 +11,4 @@ COPY target/weather-0.0.1-SNAPSHOT.jar weather.jar
 EXPOSE 8080
 
 # Command to run the application
-ENTRYPOINT ["java", "-jar", "weather-backend.jar"]
+ENTRYPOINT ["java", "-jar", "weather.jar"]
