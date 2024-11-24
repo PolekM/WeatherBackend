@@ -5,7 +5,7 @@ FROM openjdk:18-jdk-slim
 WORKDIR /weather
 
 # Copy the compiled JAR file from your local machine to the container
-COPY target/weather-0.0.1-SNAPSHOT.jar weather.jar
+COPY target/*.jar weather.jar
 
 # Expose the port the app will run on (8080 is the default for Spring Boot)
 EXPOSE 8080
