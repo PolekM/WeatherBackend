@@ -1,0 +1,15 @@
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\components\BeanInit.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\Controller\WeatherController.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\Dto\WeatherDaysParametersDto.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\Dto\WeatherWeekResponse.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\Dto\WeatherWeekSummaryResponse.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\exception\ApiException.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\exception\ApiExceptionHandler.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\exception\Error.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\model\Pressure.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\model\PressureHolder.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\model\Weather.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\model\WeatherHolder.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\Service\imp\WeatherServiceImp.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\Service\WeatherService.java
+C:\Github\Weather\Weather\weather\src\main\java\com\weather\WeatherApplication.java

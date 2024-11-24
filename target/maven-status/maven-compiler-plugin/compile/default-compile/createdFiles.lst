@@ -1,0 +1,15 @@
+com\weather\Dto\WeatherDaysParametersDto.class
+com\weather\exception\ApiException.class
+com\weather\model\WeatherHolder.class
+com\weather\model\Weather.class
+com\weather\components\BeanInit.class
+com\weather\exception\Error.class
+com\weather\model\PressureHolder.class
+com\weather\Controller\WeatherController.class
+com\weather\Service\WeatherService.class
+com\weather\Service\imp\WeatherServiceImp.class
+com\weather\exception\ApiExceptionHandler.class
+com\weather\Dto\WeatherWeekResponse.class
+com\weather\model\Pressure.class
+com\weather\WeatherApplication.class
+com\weather\Dto\WeatherWeekSummaryResponse.class
